@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  myapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: isi_i:latest
+    container_name: isi_c
+    ports:
+      - "8004:8004"
+    volumes:
+      - ./app:/code
+    environment:
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres_c
+    restart: always
+    env_file:
+      - ./app/config.env
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
