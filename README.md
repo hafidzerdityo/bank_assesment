@@ -56,7 +56,7 @@ contoh payload:
 
 contoh response:
 {
-"saldo": 1000.0
+"saldo": 0.0
 }
 
 4. /saldo/{no_rekening}
