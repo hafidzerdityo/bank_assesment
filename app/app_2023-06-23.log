@@ -28,3 +28,9 @@
 2023-06-23 15:12:51,136 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-06-23T15:12:51.136491Z"}
 2023-06-23 15:12:51,136 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-06-23T15:12:51.136496Z"}
 2023-06-23 15:13:08,872 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-06-23T15:13:08.872308Z"}
+2023-06-23 15:17:31,160 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-06-23T15:17:31.159930Z"}
+2023-06-23 15:17:32,566 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-06-23T15:17:32.566797Z"}
+2023-06-23 15:17:32,598 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-06-23T15:17:32.597985Z"}
+2023-06-23 15:17:42,234 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-06-23T15:17:42.233824Z"}
+2023-06-23 15:18:01,197 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-06-23T15:18:01.197846Z"}
+2023-06-23 15:18:09,462 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-06-23T15:18:09.462737Z"}
