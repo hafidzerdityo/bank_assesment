@@ -10,7 +10,6 @@ import os
 from datetime import date
 
 from db.database_config import metadata, engine, database
-import core.schemas.user_management as user_management_schema
 import api.routers.user_management as user_management_router
 import api.routers.transaksi as transaksi_router
 

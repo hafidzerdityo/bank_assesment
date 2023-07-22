@@ -1,7 +1,7 @@
 from datetime import datetime
 import hashlib
 import random
-import core.models.db_model as db_model
+import api.models.db_model as db_model
 from db.database_config import database
 import time 
 
@@ -9,7 +9,7 @@ import time
 def get_current_datetime():
     return datetime.now()
 
-def hash_with_sha_256(text):
+async def hash_with_sha_256(text):
     return hashlib.sha256(text.encode()).hexdigest()
 
 async def generate_unique_account_number() -> str:
