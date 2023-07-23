@@ -23,7 +23,7 @@ services:
     env_file:
       - ./app/config.env
     ports:
-      - "5433:5432"
+      - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
