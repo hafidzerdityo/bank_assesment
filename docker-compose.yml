@@ -24,6 +24,7 @@ services:
       - ./app/config.env
     ports:
       - "8005:8005"
+      - "5432:8005"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     command: postgres -c listen_addresses='*' -c port=8005
