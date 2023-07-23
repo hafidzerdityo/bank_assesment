@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: isi_i:latest
+    image: bank_image:latest
     container_name: isi_c
     ports:
       - "8004:8004"
@@ -18,14 +18,15 @@ services:
 
   postgres:
     image: postgres:latest
-    container_name: postgres_c
+    container_name: pg_bank_container
     restart: always
     env_file:
       - ./app/config.env
     ports:
-      - "5432:5432"
+      - "8005:8005"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+    command: postgres -c listen_addresses='*' -c port=8005
 
 volumes:
   postgres_data:
