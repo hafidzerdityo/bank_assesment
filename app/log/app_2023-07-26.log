@@ -1,0 +1,20 @@
+2023-07-26 06:31:46,391 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:31:46.391418Z"}
+2023-07-26 06:31:47,558 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:31:47.558182Z"}
+2023-07-26 06:31:47,559 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:31:47.559555Z"}
+2023-07-26 06:32:02,409 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:32:02.409446Z"}
+2023-07-26 06:32:03,440 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:32:03.440327Z"}
+2023-07-26 06:32:03,497 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:32:03.496996Z"}
+2023-07-26 06:32:25,599 - ERROR - {"event": "column nasabah.username does not exist", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-26T06:32:25.599113Z"}
+2023-07-26 06:32:33,527 - ERROR - {"event": "column nasabah.username does not exist", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-26T06:32:33.527449Z"}
+2023-07-26 06:33:10,162 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:10.162054Z"}
+2023-07-26 06:33:11,147 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:11.147815Z"}
+2023-07-26 06:33:11,147 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:11.147905Z"}
+2023-07-26 06:33:34,811 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:34.811328Z"}
+2023-07-26 06:33:35,824 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:35.824870Z"}
+2023-07-26 06:33:35,824 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:33:35.824910Z"}
+2023-07-26 06:33:36,327 - ERROR - {"event": "column nasabah.username does not exist", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-26T06:33:36.326899Z"}
+2023-07-26 06:34:06,216 - ERROR - {"event": "column nasabah.username does not exist", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-26T06:34:06.215859Z"}
+2023-07-26 06:34:08,158 - ERROR - {"event": "column nasabah.username does not exist", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-26T06:34:08.157987Z"}
+2023-07-26 06:34:40,381 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:34:40.381181Z"}
+2023-07-26 06:34:41,173 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:34:41.173342Z"}
+2023-07-26 06:34:41,174 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-26T06:34:41.174010Z"}

@@ -5,6 +5,8 @@ from datetime import date
 
 class RequestDaftar(BaseModel):
     nama: constr(max_length=255)
+    # username: constr(max_length=255)
+    # password: constr(max_length=255)
     nik: constr(max_length=255)
     no_hp: constr(max_length=255)
     @validator('nik')

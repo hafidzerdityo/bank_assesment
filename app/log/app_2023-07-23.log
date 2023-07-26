@@ -1,0 +1,53 @@
+2023-07-23 12:53:28,357 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:53:28.357936Z"}
+2023-07-23 12:53:51,328 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:53:51.328638Z"}
+2023-07-23 12:54:19,938 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:54:19.938337Z"}
+2023-07-23 12:54:20,801 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:54:20.801654Z"}
+2023-07-23 12:54:20,801 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:54:20.801766Z"}
+2023-07-23 12:56:00,091 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-23T12:56:00.091539Z"}
+2023-07-23 12:56:00,094 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T12:56:00.094238Z"}
+2023-07-23 12:58:21,541 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:58:21.541047Z"}
+2023-07-23 12:58:51,105 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T12:58:51.105935Z"}
+2023-07-23 13:00:33,364 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:00:33.364217Z"}
+2023-07-23 13:03:00,756 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:03:00.756380Z"}
+2023-07-23 13:03:31,197 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:03:31.197771Z"}
+2023-07-23 13:03:32,015 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:03:32.015041Z"}
+2023-07-23 13:03:32,015 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:03:32.015189Z"}
+2023-07-23 13:04:11,297 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-23T13:04:11.297104Z"}
+2023-07-23 13:04:11,300 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:04:11.300217Z"}
+2023-07-23 13:07:01,880 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:07:01.880342Z"}
+2023-07-23 13:07:02,715 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:07:02.715191Z"}
+2023-07-23 13:07:02,715 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:07:02.715425Z"}
+2023-07-23 13:07:28,931 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-23T13:07:28.931120Z"}
+2023-07-23 13:07:28,935 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:07:28.935475Z"}
+2023-07-23 13:07:29,814 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-23T13:07:29.813960Z"}
+2023-07-23 13:07:29,815 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:07:29.815470Z"}
+2023-07-23 13:08:02,890 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:08:02.890015Z"}
+2023-07-23 13:10:58,368 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:10:58.368627Z"}
+2023-07-23 13:10:59,280 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:10:59.280324Z"}
+2023-07-23 13:10:59,280 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:10:59.280403Z"}
+2023-07-23 13:12:18,557 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-23T13:12:18.557906Z"}
+2023-07-23 13:12:18,560 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:12:18.560662Z"}
+2023-07-23 13:17:50,818 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:17:50.818780Z"}
+2023-07-23 13:17:51,742 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:17:51.742006Z"}
+2023-07-23 13:17:51,742 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:17:51.741988Z"}
+2023-07-23 13:18:49,139 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:18:49.139424Z"}
+2023-07-23 13:23:45,567 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:23:45.567573Z"}
+2023-07-23 13:28:50,476 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:28:50.476630Z"}
+2023-07-23 13:31:57,018 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:31:57.018223Z"}
+2023-07-23 13:33:08,713 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:33:08.713113Z"}
+2023-07-23 13:35:24,014 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:35:24.014905Z"}
+2023-07-23 13:48:28,186 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:48:28.186381Z"}
+2023-07-23 13:51:45,841 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:51:45.841577Z"}
+2023-07-23 13:54:24,815 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:54:24.815948Z"}
+2023-07-23 13:54:44,255 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:54:44.255769Z"}
+2023-07-23 13:56:53,626 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:56:53.626173Z"}
+2023-07-23 13:57:07,632 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:57:07.632659Z"}
+2023-07-23 13:57:08,498 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:57:08.498201Z"}
+2023-07-23 13:57:08,498 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T13:57:08.498228Z"}
+2023-07-23 13:57:47,849 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-23T13:57:47.848874Z"}
+2023-07-23 14:00:09,049 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:00:09.049085Z"}
+2023-07-23 14:00:09,869 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:00:09.869323Z"}
+2023-07-23 14:00:09,869 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:00:09.869497Z"}
+2023-07-23 14:04:00,101 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:04:00.101892Z"}
+2023-07-23 14:04:00,949 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:04:00.949362Z"}
+2023-07-23 14:04:00,948 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-23T14:04:00.948317Z"}

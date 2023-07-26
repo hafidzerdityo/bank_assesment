@@ -7,6 +7,8 @@ Nasabah = Table(
     "nasabah",
     metadata,
     Column('no_rekening',String(255), primary_key=True, index=True, nullable=False),
+    # Column('username',String(20), unique=True, index=True, nullable=False),
+    # Column('password',String(20), unique=True, index=True, nullable=False),
     Column('no_hp',String(20), unique=True, index=True, nullable=False),
     Column('nik',String(255), unique=True, index=True, nullable=False),
     Column('nama',String(255), index=True, nullable=False),

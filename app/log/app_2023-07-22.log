@@ -1,0 +1,193 @@
+2023-07-22 05:55:49,646 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T05:55:49.646600Z"}
+2023-07-22 05:55:50,673 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T05:55:50.673456Z"}
+2023-07-22 05:55:50,673 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T05:55:50.673961Z"}
+2023-07-22 05:56:50,790 - ERROR - {"event": "No Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T05:56:50.790790Z"}
+2023-07-22 05:57:02,976 - ERROR - {"event": "No Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T05:57:02.976858Z"}
+2023-07-22 08:54:42,929 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:54:42.929705Z"}
+2023-07-22 08:54:44,067 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:54:44.067209Z"}
+2023-07-22 08:54:44,067 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:54:44.067237Z"}
+2023-07-22 08:55:00,211 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T08:55:00.211150Z"}
+2023-07-22 08:55:24,783 - ERROR - {"event": "1 validation error for ResponseDaftar\nno_rekening\n  str type expected (type=type_error.str)", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T08:55:24.783727Z"}
+2023-07-22 08:57:13,503 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:57:13.503449Z"}
+2023-07-22 08:57:14,366 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:57:14.366825Z"}
+2023-07-22 08:57:14,366 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:57:14.366859Z"}
+2023-07-22 08:57:17,282 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T08:57:17.282933Z"}
+2023-07-22 08:57:47,032 - ERROR - {"event": "1 validation error for ResponseDaftar\nno_rekening\n  str type expected (type=type_error.str)", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T08:57:47.032792Z"}
+2023-07-22 08:59:29,905 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:59:29.905501Z"}
+2023-07-22 08:59:30,893 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:59:30.893649Z"}
+2023-07-22 08:59:30,907 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T08:59:30.907316Z"}
+2023-07-22 09:01:16,435 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:01:16.435889Z"}
+2023-07-22 09:01:17,366 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:01:17.366176Z"}
+2023-07-22 09:01:17,366 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:01:17.366264Z"}
+2023-07-22 09:01:19,099 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:01:19.099175Z"}
+2023-07-22 09:01:20,389 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:01:20.389295Z"}
+2023-07-22 09:05:15,999 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:05:15.999864Z"}
+2023-07-22 09:05:16,819 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:05:16.819648Z"}
+2023-07-22 09:05:16,819 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:05:16.819662Z"}
+2023-07-22 09:05:18,693 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:05:18.693657Z"}
+2023-07-22 09:05:27,817 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:05:27.817486Z"}
+2023-07-22 09:07:08,018 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:08.018071Z"}
+2023-07-22 09:07:08,878 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:08.878267Z"}
+2023-07-22 09:07:08,879 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:08.879546Z"}
+2023-07-22 09:07:13,907 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:07:13.907518Z"}
+2023-07-22 09:07:51,352 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:51.352478Z"}
+2023-07-22 09:07:52,198 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:52.198919Z"}
+2023-07-22 09:07:52,199 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:07:52.198979Z"}
+2023-07-22 09:15:58,672 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:15:58.672782Z"}
+2023-07-22 09:15:59,547 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:15:59.547464Z"}
+2023-07-22 09:15:59,547 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:15:59.547471Z"}
+2023-07-22 09:16:01,511 - ERROR - {"event": "Nomor HP atau NIK Sudah Terdaftar", "logger": "api.routers.user_management", "level": "error", "timestamp": "2023-07-22T09:16:01.511719Z"}
+2023-07-22 09:19:43,489 - ERROR - {"event": "relation \"transaksi\" does not exist", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T09:19:43.489171Z"}
+2023-07-22 09:20:00,210 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:00.210901Z"}
+2023-07-22 09:20:01,285 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:01.285211Z"}
+2023-07-22 09:20:01,324 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:01.324947Z"}
+2023-07-22 09:20:43,177 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:43.177741Z"}
+2023-07-22 09:20:44,077 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:44.077156Z"}
+2023-07-22 09:20:44,077 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T09:20:44.077179Z"}
+2023-07-22 09:21:47,527 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T09:21:47.527137Z"}
+2023-07-22 13:10:30,042 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:10:30.042217Z"}
+2023-07-22 13:10:31,155 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:10:31.155459Z"}
+2023-07-22 13:10:31,155 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:10:31.155495Z"}
+2023-07-22 13:10:43,405 - ERROR - {"event": "invalid input for query argument $4: <coroutine object get_current_datetime a... (expected a datetime.date or datetime.datetime instance, got 'coroutine')", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T13:10:43.405932Z"}
+2023-07-22 13:11:48,442 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:11:48.442881Z"}
+2023-07-22 13:11:49,369 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:11:49.368990Z"}
+2023-07-22 13:11:49,369 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:11:49.369064Z"}
+2023-07-22 13:12:31,925 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:12:31.925547Z"}
+2023-07-22 13:12:32,933 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:12:32.933686Z"}
+2023-07-22 13:12:32,946 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T13:12:32.946283Z"}
+2023-07-22 16:55:20,479 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:55:20.479847Z"}
+2023-07-22 16:55:21,375 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:55:21.375511Z"}
+2023-07-22 16:55:21,375 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:55:21.375625Z"}
+2023-07-22 16:57:21,531 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:57:21.531545Z"}
+2023-07-22 16:57:22,471 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:57:22.470993Z"}
+2023-07-22 16:57:22,471 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:57:22.471680Z"}
+2023-07-22 16:58:06,122 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:58:06.122278Z"}
+2023-07-22 16:58:07,013 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:58:07.013626Z"}
+2023-07-22 16:58:07,013 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T16:58:07.013635Z"}
+2023-07-22 16:58:12,601 - ERROR - {"event": "Error 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T16:58:12.601568Z"}
+2023-07-22 16:58:26,851 - ERROR - {"event": "Error 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T16:58:26.851042Z"}
+2023-07-22 16:59:03,014 - ERROR - {"event": "Error 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T16:59:03.014727Z"}
+2023-07-22 17:00:05,193 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:00:05.193517Z"}
+2023-07-22 17:00:06,247 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:00:06.247888Z"}
+2023-07-22 17:00:06,247 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:00:06.247893Z"}
+2023-07-22 17:00:08,675 - ERROR - {"event": "Error, reason: more than 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:00:08.675593Z"}
+2023-07-22 17:00:11,455 - ERROR - {"event": "Error, reason: more than 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:00:11.455129Z"}
+2023-07-22 17:00:16,167 - ERROR - {"event": "Error, reason: more than 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:00:16.167459Z"}
+2023-07-22 17:00:16,836 - ERROR - {"event": "Error, reason: more than 10", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:00:16.836794Z"}
+2023-07-22 17:06:28,061 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:06:28.061642Z"}
+2023-07-22 17:06:28,945 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:06:28.945279Z"}
+2023-07-22 17:06:28,945 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:06:28.945322Z"}
+2023-07-22 17:06:40,706 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:06:40.706730Z"}
+2023-07-22 17:06:43,924 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:06:43.924309Z"}
+2023-07-22 17:07:11,555 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:11.555005Z"}
+2023-07-22 17:07:12,458 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:12.458106Z"}
+2023-07-22 17:07:12,516 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:12.516594Z"}
+2023-07-22 17:07:13,578 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:07:13.578878Z"}
+2023-07-22 17:07:14,387 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:07:14.387904Z"}
+2023-07-22 17:07:15,061 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:07:15.061954Z"}
+2023-07-22 17:07:16,048 - ERROR - {"event": "create_tarik() missing 1 required positional argument: 'user_exist'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:07:16.048275Z"}
+2023-07-22 17:07:49,822 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:49.821976Z"}
+2023-07-22 17:07:50,695 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:50.695491Z"}
+2023-07-22 17:07:50,695 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:07:50.695685Z"}
+2023-07-22 17:07:56,087 - ERROR - {"event": "Saldo Tidak Cukup", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:07:56.087263Z"}
+2023-07-22 17:15:06,599 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:15:06.599700Z"}
+2023-07-22 17:15:07,537 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:15:07.537740Z"}
+2023-07-22 17:15:07,537 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:15:07.537743Z"}
+2023-07-22 17:15:09,984 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:15:09.983971Z"}
+2023-07-22 17:15:11,826 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:15:11.826500Z"}
+2023-07-22 17:15:12,621 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:15:12.621500Z"}
+2023-07-22 17:17:38,456 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:17:38.456822Z"}
+2023-07-22 17:17:39,377 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:17:39.377888Z"}
+2023-07-22 17:17:39,377 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:17:39.377909Z"}
+2023-07-22 17:17:42,390 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:17:42.390245Z"}
+2023-07-22 17:17:43,256 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:17:43.256230Z"}
+2023-07-22 17:17:43,974 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:17:43.974316Z"}
+2023-07-22 17:17:44,825 - ERROR - {"event": "maximum recursion depth exceeded while calling a Python object", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:17:44.825531Z"}
+2023-07-22 17:19:06,041 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:19:06.041103Z"}
+2023-07-22 17:19:06,962 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:19:06.962248Z"}
+2023-07-22 17:19:06,962 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:19:06.962238Z"}
+2023-07-22 17:20:05,340 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:05.340167Z"}
+2023-07-22 17:20:06,291 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:06.291368Z"}
+2023-07-22 17:20:06,291 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:06.291844Z"}
+2023-07-22 17:20:07,939 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:20:07.938955Z"}
+2023-07-22 17:20:09,799 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:20:09.799772Z"}
+2023-07-22 17:20:58,712 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:58.712210Z"}
+2023-07-22 17:20:59,622 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:59.622343Z"}
+2023-07-22 17:20:59,622 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:20:59.622416Z"}
+2023-07-22 17:21:02,241 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:21:02.241823Z"}
+2023-07-22 17:21:03,132 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:21:03.132013Z"}
+2023-07-22 17:21:03,884 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:21:03.883969Z"}
+2023-07-22 17:22:13,564 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:13.564492Z"}
+2023-07-22 17:22:14,505 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:14.505653Z"}
+2023-07-22 17:22:14,505 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:14.505687Z"}
+2023-07-22 17:22:15,128 - ERROR - {"event": "float expected at most 1 argument, got 2", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:22:15.128666Z"}
+2023-07-22 17:22:16,636 - ERROR - {"event": "float expected at most 1 argument, got 2", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:22:16.636138Z"}
+2023-07-22 17:22:44,046 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:44.046170Z"}
+2023-07-22 17:22:44,951 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:44.951384Z"}
+2023-07-22 17:22:44,951 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:22:44.951423Z"}
+2023-07-22 17:27:08,556 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:27:08.556409Z"}
+2023-07-22 17:27:09,472 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:27:09.472833Z"}
+2023-07-22 17:27:09,473 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:27:09.473206Z"}
+2023-07-22 17:27:10,747 - ERROR - {"event": "object function can't be used in 'await' expression", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:27:10.747721Z"}
+2023-07-22 17:28:23,595 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:23.595645Z"}
+2023-07-22 17:28:24,476 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:24.476022Z"}
+2023-07-22 17:28:24,476 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:24.476032Z"}
+2023-07-22 17:28:40,475 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:40.475371Z"}
+2023-07-22 17:28:41,822 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:41.822350Z"}
+2023-07-22 17:28:41,857 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:28:41.857609Z"}
+2023-07-22 17:28:42,932 - ERROR - {"event": "argument of AND must be type boolean, not type numeric", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:28:42.932176Z"}
+2023-07-22 17:28:47,448 - ERROR - {"event": "argument of AND must be type boolean, not type numeric", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:28:47.448691Z"}
+2023-07-22 17:29:44,832 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:29:44.832897Z"}
+2023-07-22 17:29:45,720 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:29:45.720233Z"}
+2023-07-22 17:29:45,720 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:29:45.720211Z"}
+2023-07-22 17:29:47,795 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:29:47.794945Z"}
+2023-07-22 17:30:27,769 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:30:27.768979Z"}
+2023-07-22 17:30:28,603 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:30:28.603896Z"}
+2023-07-22 17:30:28,603 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:30:28.603929Z"}
+2023-07-22 17:30:36,264 - ERROR - {"event": "Select.create_legacy_select() got multiple values for argument 'columns'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:30:36.264235Z"}
+2023-07-22 17:31:56,660 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:31:56.660073Z"}
+2023-07-22 17:31:57,507 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:31:57.507588Z"}
+2023-07-22 17:31:57,507 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:31:57.507524Z"}
+2023-07-22 17:32:02,085 - ERROR - {"event": "Select.create_legacy_select() got multiple values for argument 'columns'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:32:02.085057Z"}
+2023-07-22 17:32:02,917 - ERROR - {"event": "Select.create_legacy_select() got multiple values for argument 'columns'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:32:02.917891Z"}
+2023-07-22 17:32:18,818 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:32:18.818541Z"}
+2023-07-22 17:32:19,629 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:32:19.629156Z"}
+2023-07-22 17:32:19,629 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:32:19.629316Z"}
+2023-07-22 17:32:21,812 - ERROR - {"event": "Select.create_legacy_select() got multiple values for argument 'columns'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:32:21.812297Z"}
+2023-07-22 17:32:22,590 - ERROR - {"event": "Select.create_legacy_select() got multiple values for argument 'columns'", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:32:22.590601Z"}
+2023-07-22 17:33:53,362 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:33:53.362740Z"}
+2023-07-22 17:33:54,211 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:33:54.211652Z"}
+2023-07-22 17:33:54,211 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:33:54.211676Z"}
+2023-07-22 17:33:57,789 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:33:57.789272Z"}
+2023-07-22 17:34:56,789 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:34:56.789895Z"}
+2023-07-22 17:34:57,811 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:34:57.811917Z"}
+2023-07-22 17:34:57,822 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:34:57.822353Z"}
+2023-07-22 17:34:58,353 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:34:58.353819Z"}
+2023-07-22 17:35:01,979 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:35:01.979339Z"}
+2023-07-22 17:35:20,653 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:35:20.653780Z"}
+2023-07-22 17:35:21,526 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:35:21.526858Z"}
+2023-07-22 17:35:21,583 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:35:21.583020Z"}
+2023-07-22 17:35:24,838 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:35:24.838806Z"}
+2023-07-22 17:35:59,823 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:35:59.823492Z"}
+2023-07-22 17:36:00,709 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:36:00.709510Z"}
+2023-07-22 17:36:00,730 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:36:00.730379Z"}
+2023-07-22 17:36:03,946 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:36:03.946522Z"}
+2023-07-22 17:36:04,823 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:36:04.823008Z"}
+2023-07-22 17:36:32,002 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:36:32.002618Z"}
+2023-07-22 17:36:32,864 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:36:32.864621Z"}
+2023-07-22 17:36:32,950 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:36:32.950297Z"}
+2023-07-22 17:36:36,465 - ERROR - {"event": "1 validation error for ResponseSaldo\nsaldo\n  value is not a valid float (type=type_error.float)", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:36:36.465187Z"}
+2023-07-22 17:38:09,169 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:09.169873Z"}
+2023-07-22 17:38:10,027 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:10.027933Z"}
+2023-07-22 17:38:10,027 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:10.027955Z"}
+2023-07-22 17:38:37,483 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:37.483487Z"}
+2023-07-22 17:38:38,322 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:38.322074Z"}
+2023-07-22 17:38:38,424 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:38:38.424371Z"}
+2023-07-22 17:44:04,456 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:44:04.456821Z"}
+2023-07-22 17:44:05,368 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:44:05.368475Z"}
+2023-07-22 17:44:05,368 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:44:05.368524Z"}
+2023-07-22 17:46:05,175 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:46:05.175328Z"}
+2023-07-22 17:46:06,007 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:46:06.007014Z"}
+2023-07-22 17:46:06,007 - ERROR - {"event": "Error message", "logger": "api.routers.log", "level": "error", "timestamp": "2023-07-22T17:46:06.007041Z"}
+2023-07-22 17:46:09,237 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "services.transaksi", "level": "error", "timestamp": "2023-07-22T17:46:09.237181Z"}
+2023-07-22 17:46:09,241 - ERROR - {"event": "Nomor Rekening Tidak Diketahui", "logger": "api.routers.transaksi", "level": "error", "timestamp": "2023-07-22T17:46:09.241785Z"}

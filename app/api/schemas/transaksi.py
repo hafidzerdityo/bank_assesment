@@ -1,6 +1,7 @@
 from typing import Optional, List,Dict, Union
 from pydantic import BaseModel, StrictFloat, StrictStr, StrictInt, StrictBool, validator,constr, confloat
 from datetime import date
+from decimal import Decimal, ROUND_DOWN
 
 
 class RequestTabung(BaseModel):
@@ -11,7 +12,11 @@ class RequestTabung(BaseModel):
     def validate_nominal(cls, value):
         if value <= 0:
             raise ValueError('Nominal should be a positive number greater than 0')
-        return value
+        decimal_value = Decimal(str(value))
+        if decimal_value.as_tuple().exponent < -2:
+            raise ValueError('Nominal should have at most 2 decimal places')
+        value = decimal_value.quantize(Decimal('0.00'), rounding=ROUND_DOWN)
+        return float(value)
     
 class ResponseTabung(BaseModel):
     saldo: StrictFloat
@@ -26,7 +31,11 @@ class RequestTarik(BaseModel):
     def validate_nominal(cls, value):
         if value <= 0:
             raise ValueError('Nominal should be a positive number greater than 0')
-        return value
+        decimal_value = Decimal(str(value))
+        if decimal_value.as_tuple().exponent < -2:
+            raise ValueError('Nominal should have at most 2 decimal places')
+        value = decimal_value.quantize(Decimal('0.00'), rounding=ROUND_DOWN)
+        return float(value)
 
 class ResponseTarik(BaseModel):
     saldo: StrictFloat
